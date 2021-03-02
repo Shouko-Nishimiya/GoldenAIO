@@ -9,3 +9,7 @@ leaf xnet
 colorful console
 
 ill leave downloads later
+
+ok so on 02/03/2021 i updated GoldenAIO to have its first module Minecraft and made it so the combos have to read a text instead of a open dialog for those who are downloading it unpacking it then compiling once compiled go into the bin folder and make two files Combo.txt and proxies.txt so it will work
+
+- Shouko Nishimiya
