@@ -21,8 +21,6 @@ namespace GoldenAIO
             Colorful.Console.Write("██║░░╚██╗██║░░██║██║░░░░░██║░░██║██╔══╝░░██║╚████║██╔══██║██║██║░░██║\n", Color.Gold);
             Colorful.Console.Write("╚██████╔╝╚█████╔╝███████╗██████╔╝███████╗██║░╚███║██║░░██║██║╚█████╔╝\n", Color.Gold);
             Colorful.Console.Write("░╚═════╝░░╚════╝░╚══════╝╚═════╝░╚══════╝╚═╝░░╚══╝╚═╝░░╚═╝╚═╝░╚════╝░\n", Color.Gold);
-            Colorful.Console.Write("Best And Cheapest Alt Store Around https://sellix.io/GoldenVault \n", Color.Cyan);
-            Colorful.Console.Write("GoldenVault Discord: https://discord/gg/GoldenVault \n", Color.Cyan);
             Colorful.Console.Write("Made By https://github.com/Shouko-Nishimiya \n\n", Color.Cyan);
         }
     }
